@@ -1,0 +1,418 @@
+2015-07-05 05:38:03 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 05:38:03 [INFO] Loading properties
+2015-07-05 05:38:03 [WARNING] server.properties does not exist
+2015-07-05 05:38:03 [INFO] Generating new properties file
+2015-07-05 05:38:03 [INFO] Default game type: SURVIVAL
+2015-07-05 05:38:03 [INFO] Generating keypair
+2015-07-05 05:38:03 [INFO] Starting Minecraft server on *:25565
+2015-07-05 05:38:03 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (Aucun fichier ou dossier de ce type)
+2015-07-05 05:38:03 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (Aucun fichier ou dossier de ce type)
+2015-07-05 05:38:03 [INFO] Preparing level "world"
+2015-07-05 05:38:03 [INFO] Preparing start region for level 0
+2015-07-05 05:38:04 [INFO] Preparing spawn area: 15%
+2015-07-05 05:38:05 [INFO] Preparing spawn area: 43%
+2015-07-05 05:38:06 [INFO] Preparing spawn area: 71%
+2015-07-05 05:38:07 [INFO] Done (4,241s)! For help, type "help" or "?"
+2015-07-05 05:39:38 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 05:39:38 [INFO] Loading properties
+2015-07-05 05:39:38 [INFO] Default game type: SURVIVAL
+2015-07-05 05:39:38 [INFO] Generating keypair
+2015-07-05 05:39:38 [INFO] Starting Minecraft server on *:25565
+2015-07-05 05:39:38 [INFO] Preparing level "world"
+2015-07-05 05:39:38 [INFO] Preparing start region for level 0
+2015-07-05 05:39:39 [INFO] Done (0,672s)! For help, type "help" or "?"
+2015-07-05 05:39:50 [INFO] Stopping server
+2015-07-05 05:40:57 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 05:40:57 [INFO] Loading properties
+2015-07-05 05:40:57 [INFO] Default game type: SURVIVAL
+2015-07-05 05:40:57 [INFO] Generating keypair
+2015-07-05 05:40:57 [INFO] Starting Minecraft server on *:25565
+2015-07-05 05:40:57 [INFO] Preparing level "world"
+2015-07-05 05:40:57 [INFO] Preparing start region for level 0
+2015-07-05 05:40:58 [INFO] Done (0,671s)! For help, type "help" or "?"
+2015-07-05 05:41:07 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2015-07-05 05:41:07 [INFO] /ban <name> [reason ...]
+2015-07-05 05:41:07 [INFO] /ban-ip <address|name> [reason ...]
+2015-07-05 05:41:07 [INFO] /banlist [ips|players]
+2015-07-05 05:41:07 [INFO] /clear <player> [item] [data]
+2015-07-05 05:41:07 [INFO] /debug
+2015-07-05 05:41:07 [INFO] /defaultgamemode <mode>
+2015-07-05 05:41:07 [INFO] /deop <player>
+2015-07-05 05:42:39 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 05:42:39 [INFO] Loading properties
+2015-07-05 05:42:39 [INFO] Default game type: SURVIVAL
+2015-07-05 05:42:39 [INFO] Generating keypair
+2015-07-05 05:42:40 [INFO] Starting Minecraft server on *:25565
+2015-07-05 05:42:40 [INFO] Preparing level "world"
+2015-07-05 05:42:40 [INFO] Preparing start region for level 0
+2015-07-05 05:42:40 [INFO] Done (0,657s)! For help, type "help" or "?"
+2015-07-05 05:43:14 [INFO] Disconnecting /192.168.1.68:54173: Protocol error
+2015-07-05 05:43:14 [INFO] /192.168.1.68:54173 lost connection
+2015-07-05 05:43:31 [INFO] Disconnecting /192.168.1.68:54180: Protocol error
+2015-07-05 05:43:31 [INFO] /192.168.1.68:54180 lost connection
+2015-07-05 05:43:49 [INFO] Stopping server
+2015-07-05 05:43:51 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 05:43:51 [INFO] Loading properties
+2015-07-05 05:43:51 [INFO] Default game type: SURVIVAL
+2015-07-05 05:43:51 [INFO] Generating keypair
+2015-07-05 05:43:51 [INFO] Starting Minecraft server on *:25565
+2015-07-05 05:43:51 [INFO] Preparing level "world"
+2015-07-05 05:43:51 [INFO] Preparing start region for level 0
+2015-07-05 05:43:52 [INFO] Done (0,643s)! For help, type "help" or "?"
+2015-07-05 05:43:57 [INFO] Disconnecting /192.168.1.68:54189: Protocol error
+2015-07-05 05:43:57 [INFO] /192.168.1.68:54189 lost connection
+2015-07-05 05:48:30 [INFO] alaxa27 [/192.168.1.68:54413] lost connection
+2015-07-05 05:49:10 [INFO] alaxa27 [/192.168.1.68:54415] lost connection
+2015-07-05 05:49:12 [INFO] Stopping server
+2015-07-05 05:49:13 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 05:49:13 [INFO] Loading properties
+2015-07-05 05:49:13 [INFO] Default game type: SURVIVAL
+2015-07-05 05:49:13 [INFO] Generating keypair
+2015-07-05 05:49:14 [INFO] Starting Minecraft server on *:25565
+2015-07-05 05:49:14 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-07-05 05:49:14 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-07-05 05:49:14 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-07-05 05:49:14 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-07-05 05:49:14 [INFO] Preparing level "world"
+2015-07-05 05:49:14 [INFO] Preparing start region for level 0
+2015-07-05 05:49:14 [INFO] Done (0,698s)! For help, type "help" or "?"
+2015-07-05 05:49:16 [INFO] alaxa27[/192.168.1.68:54418] logged in with entity id 263 at (220.5, 65.0, 103.5)
+2015-07-05 05:52:06 [INFO] alaxa27 lost connection: disconnect.quitting
+2015-07-05 06:05:30 [INFO] Stopping server
+2015-07-05 06:05:31 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:05:31 [INFO] Loading properties
+2015-07-05 06:05:31 [INFO] Default game type: SURVIVAL
+2015-07-05 06:05:31 [INFO] Generating keypair
+2015-07-05 06:05:32 [INFO] Starting Minecraft server on *:25565
+2015-07-05 06:05:32 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-07-05 06:05:32 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-07-05 06:05:32 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-07-05 06:05:32 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-07-05 06:05:32 [INFO] Preparing level "world"
+2015-07-05 06:05:32 [INFO] Preparing start region for level 0
+2015-07-05 06:05:33 [INFO] Done (0,791s)! For help, type "help" or "?"
+2015-07-05 06:05:35 [INFO] alaxa27[/192.168.1.254:41132] logged in with entity id 286 at (220.5, 65.0, 103.5)
+2015-07-05 06:05:54 [INFO] Disconnecting /85.69.56.110:51788: Protocol error
+2015-07-05 06:05:54 [INFO] /85.69.56.110:51788 lost connection
+2015-07-05 06:06:02 [INFO] alaxa27 lost connection: disconnect.quitting
+2015-07-05 06:06:22 [INFO] Disconnecting /85.69.56.110:51807: Protocol error
+2015-07-05 06:06:22 [INFO] /85.69.56.110:51807 lost connection
+2015-07-05 06:06:45 [INFO] Disconnecting /85.69.56.110:51817: Protocol error
+2015-07-05 06:06:45 [INFO] /85.69.56.110:51817 lost connection
+2015-07-05 06:06:45 [INFO] /85.69.56.110:51819 lost connection
+2015-07-05 06:07:33 [INFO] Stopping server
+2015-07-05 06:07:33 [INFO] Saving players
+2015-07-05 06:07:35 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:07:35 [INFO] Loading properties
+2015-07-05 06:07:35 [INFO] Default game type: SURVIVAL
+2015-07-05 06:07:35 [INFO] Generating keypair
+2015-07-05 06:07:35 [INFO] Starting Minecraft server on *:25565
+2015-07-05 06:07:35 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-07-05 06:07:35 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-07-05 06:07:35 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-07-05 06:07:35 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-07-05 06:07:35 [INFO] Preparing level "world"
+2015-07-05 06:07:35 [INFO] Preparing start region for level 0
+2015-07-05 06:07:36 [INFO] Done (0,707s)! For help, type "help" or "?"
+2015-07-05 06:07:40 [INFO] Disconnecting /85.69.56.110:51856: Protocol error
+2015-07-05 06:07:40 [INFO] /85.69.56.110:51856 lost connection
+2015-07-05 06:07:40 [INFO] /85.69.56.110:51857 lost connection
+2015-07-05 06:07:41 [INFO] Disconnecting /85.69.56.110:51859: Protocol error
+2015-07-05 06:07:41 [INFO] /85.69.56.110:51859 lost connection
+2015-07-05 06:07:49 [INFO] Disconnecting /85.69.56.110:51863: Protocol error
+2015-07-05 06:07:49 [INFO] /85.69.56.110:51863 lost connection
+2015-07-05 06:07:52 [INFO] Disconnecting /85.69.56.110:51866: Protocol error
+2015-07-05 06:07:52 [INFO] /85.69.56.110:51866 lost connection
+2015-07-05 06:07:52 [INFO] /85.69.56.110:51867 lost connection
+2015-07-05 06:07:59 [INFO] alaxa27[/192.168.1.254:41216] logged in with entity id 286 at (218.30114834166625, 67.0, 101.90191445257229)
+2015-07-05 06:11:11 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:11:11 [INFO] Loading properties
+2015-07-05 06:11:11 [INFO] Default game type: SURVIVAL
+2015-07-05 06:11:11 [INFO] Generating keypair
+2015-07-05 06:11:11 [INFO] Starting Minecraft server on 212.194.1.150:27644
+2015-07-05 06:11:11 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:11:11 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:11:11 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:13:40 [INFO] Stopping server
+2015-07-05 06:13:40 [INFO] Saving worlds
+2015-07-05 06:13:41 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:13:41 [INFO] Loading properties
+2015-07-05 06:13:41 [INFO] Default game type: SURVIVAL
+2015-07-05 06:13:41 [INFO] Generating keypair
+2015-07-05 06:13:42 [INFO] Starting Minecraft server on 212.194.1.150:27644
+2015-07-05 06:13:42 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:13:42 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:13:42 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:15:23 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:15:23 [INFO] Loading properties
+2015-07-05 06:15:23 [INFO] Default game type: SURVIVAL
+2015-07-05 06:15:23 [INFO] Generating keypair
+2015-07-05 06:15:23 [INFO] Starting Minecraft server on 212.194.1.150:27644
+2015-07-05 06:15:23 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:15:23 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:15:23 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:15:36 [INFO] Stopping server
+2015-07-05 06:15:36 [INFO] Saving worlds
+2015-07-05 06:15:37 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:15:37 [INFO] Loading properties
+2015-07-05 06:15:37 [INFO] Default game type: SURVIVAL
+2015-07-05 06:15:37 [INFO] Generating keypair
+2015-07-05 06:15:37 [INFO] Starting Minecraft server on 212.194.1.150:27644
+2015-07-05 06:15:37 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:15:37 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:15:37 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:19:02 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:19:02 [INFO] Loading properties
+2015-07-05 06:19:02 [INFO] Default game type: SURVIVAL
+2015-07-05 06:19:02 [INFO] Generating keypair
+2015-07-05 06:19:02 [INFO] Starting Minecraft server on 212.194.1.150:25565
+2015-07-05 06:19:02 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:19:02 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:19:02 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:24:18 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:24:18 [INFO] Loading properties
+2015-07-05 06:24:18 [INFO] Default game type: SURVIVAL
+2015-07-05 06:24:18 [INFO] Generating keypair
+2015-07-05 06:24:18 [INFO] Starting Minecraft server on 212.194.1.150:25565
+2015-07-05 06:24:18 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:24:18 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:24:18 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:27:09 [INFO] Stopping server
+2015-07-05 06:27:09 [INFO] Saving worlds
+2015-07-05 06:27:10 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:27:10 [INFO] Loading properties
+2015-07-05 06:27:10 [INFO] Default game type: SURVIVAL
+2015-07-05 06:27:10 [INFO] Generating keypair
+2015-07-05 06:27:10 [INFO] Starting Minecraft server on 212.194.1.150:25565
+2015-07-05 06:27:10 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:27:10 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:27:10 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:30:27 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:30:27 [INFO] Loading properties
+2015-07-05 06:30:27 [INFO] Default game type: SURVIVAL
+2015-07-05 06:30:27 [INFO] Generating keypair
+2015-07-05 06:30:27 [INFO] Starting Minecraft server on 212.194.1.150:25565
+2015-07-05 06:30:27 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:30:27 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:30:27 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:37:28 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:37:28 [INFO] Loading properties
+2015-07-05 06:37:28 [INFO] Default game type: SURVIVAL
+2015-07-05 06:37:28 [INFO] Generating keypair
+2015-07-05 06:37:28 [INFO] Starting Minecraft server on 212.194.1.150:80
+2015-07-05 06:37:28 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:37:28 [WARNING] The exception was: java.net.BindException: Permission non accordée
+2015-07-05 06:37:28 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:39:12 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:39:12 [INFO] Loading properties
+2015-07-05 06:39:12 [INFO] Default game type: SURVIVAL
+2015-07-05 06:39:12 [INFO] Generating keypair
+2015-07-05 06:39:13 [INFO] Starting Minecraft server on 212.194.1.150:25565
+2015-07-05 06:39:13 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:39:13 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:39:13 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:45:24 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:45:24 [INFO] Loading properties
+2015-07-05 06:45:24 [INFO] Default game type: SURVIVAL
+2015-07-05 06:45:24 [INFO] Generating keypair
+2015-07-05 06:45:24 [INFO] Starting Minecraft server on 212.194.1.150:25565
+2015-07-05 06:45:24 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:45:24 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:45:24 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:47:31 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:47:31 [INFO] Loading properties
+2015-07-05 06:47:31 [INFO] Default game type: SURVIVAL
+2015-07-05 06:47:31 [INFO] Generating keypair
+2015-07-05 06:47:31 [INFO] Starting Minecraft server on *:25565
+2015-07-05 06:47:31 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-07-05 06:47:31 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-07-05 06:47:31 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-07-05 06:47:31 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-07-05 06:47:31 [INFO] Preparing level "world"
+2015-07-05 06:47:31 [INFO] Preparing start region for level 0
+2015-07-05 06:47:32 [INFO] Done (0,826s)! For help, type "help" or "?"
+2015-07-05 06:48:24 [INFO] /127.0.0.1:37251 lost connection
+2015-07-05 06:48:44 [INFO] /127.0.0.1:37253 lost connection
+2015-07-05 06:48:53 [INFO] /127.0.0.1:37255 lost connection
+2015-07-05 06:49:50 [INFO] Stopping server
+2015-07-05 06:49:50 [INFO] Saving players
+2015-07-05 06:49:50 [INFO] Saving worlds
+2015-07-05 06:49:50 [INFO] Closing listening thread
+2015-07-05 06:49:51 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:49:51 [INFO] Loading properties
+2015-07-05 06:49:51 [INFO] Default game type: SURVIVAL
+2015-07-05 06:49:51 [INFO] Generating keypair
+2015-07-05 06:49:51 [INFO] Starting Minecraft server on 212.194.1.150:37255
+2015-07-05 06:49:51 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:49:51 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:49:51 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:50:03 [INFO] Stopping server
+2015-07-05 06:50:05 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:50:05 [INFO] Loading properties
+2015-07-05 06:50:05 [INFO] Default game type: SURVIVAL
+2015-07-05 06:50:05 [INFO] Generating keypair
+2015-07-05 06:50:05 [INFO] Starting Minecraft server on 212.194.1.150:37255
+2015-07-05 06:50:05 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:50:05 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:50:05 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:50:12 [INFO] Stopping server
+2015-07-05 06:50:12 [INFO] Saving worlds
+2015-07-05 06:50:14 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:50:14 [INFO] Loading properties
+2015-07-05 06:50:14 [INFO] Default game type: SURVIVAL
+2015-07-05 06:50:14 [INFO] Generating keypair
+2015-07-05 06:50:14 [INFO] Starting Minecraft server on 212.194.1.150:37255
+2015-07-05 06:50:14 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:50:14 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:50:14 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:51:46 [INFO] Stopping server
+2015-07-05 06:51:46 [INFO] Saving worlds
+2015-07-05 06:51:47 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:51:47 [INFO] Loading properties
+2015-07-05 06:51:47 [INFO] Default game type: SURVIVAL
+2015-07-05 06:51:47 [INFO] Generating keypair
+2015-07-05 06:51:47 [INFO] Starting Minecraft server on 212.194.1.150:25565
+2015-07-05 06:51:47 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:51:47 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:51:47 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:53:30 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:53:30 [INFO] Loading properties
+2015-07-05 06:53:30 [INFO] Default game type: SURVIVAL
+2015-07-05 06:53:30 [INFO] Generating keypair
+2015-07-05 06:53:31 [INFO] Starting Minecraft server on 212.194.1.150:27644
+2015-07-05 06:53:31 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:53:31 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:53:31 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:56:52 [INFO] Stopping server
+2015-07-05 06:56:52 [INFO] Saving worlds
+2015-07-05 06:56:54 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:56:54 [INFO] Loading properties
+2015-07-05 06:56:54 [INFO] Default game type: SURVIVAL
+2015-07-05 06:56:54 [INFO] Generating keypair
+2015-07-05 06:56:54 [INFO] Starting Minecraft server on 212.194.1.150:25565
+2015-07-05 06:56:54 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:56:54 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:56:54 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:58:06 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:58:06 [INFO] Loading properties
+2015-07-05 06:58:06 [INFO] Default game type: SURVIVAL
+2015-07-05 06:58:07 [INFO] Generating keypair
+2015-07-05 06:58:07 [INFO] Starting Minecraft server on 212.194.1.150:25565
+2015-07-05 06:58:07 [WARNING] **** FAILED TO BIND TO PORT!
+2015-07-05 06:58:07 [WARNING] The exception was: java.net.BindException: Ne peut attribuer l'adresse demandée
+2015-07-05 06:58:07 [WARNING] Perhaps a server is already running on that port?
+2015-07-05 06:59:08 [INFO] Stopping server
+2015-07-05 06:59:10 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 06:59:10 [INFO] Loading properties
+2015-07-05 06:59:10 [INFO] Default game type: SURVIVAL
+2015-07-05 06:59:10 [INFO] Generating keypair
+2015-07-05 06:59:11 [INFO] Starting Minecraft server on *:25565
+2015-07-05 06:59:11 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-07-05 06:59:11 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-07-05 06:59:11 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-07-05 06:59:11 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-07-05 06:59:11 [INFO] Preparing level "world"
+2015-07-05 06:59:11 [INFO] Preparing start region for level 0
+2015-07-05 06:59:11 [INFO] Done (0,699s)! For help, type "help" or "?"
+2015-07-05 06:59:34 [INFO] alaxa27[/192.168.1.254:42358] logged in with entity id 301 at (218.30114834166625, 67.0, 101.90191445257229)
+2015-07-05 06:59:39 [INFO] alaxa27 lost connection: disconnect.quitting
+2015-07-05 06:59:52 [INFO] Inarius[/85.69.56.110:55420] logged in with entity id 360 at (216.5, 70.0, 95.5)
+2015-07-05 07:00:01 [INFO] alaxa27[/192.168.1.254:42364] logged in with entity id 476 at (218.30114834166625, 67.0, 101.90191445257229)
+2015-07-05 07:00:08 [INFO] <Inarius> yoyoyoyoyyo
+2015-07-05 07:00:53 [INFO] <alaxa27> yoyooyoy
+2015-07-05 07:01:01 [INFO] Inarius lost connection: disconnect.genericReason
+2015-07-05 07:01:55 [INFO] Inarius[/85.69.56.110:56141] logged in with entity id 1343 at (220.68126726119345, 64.0, 104.30000001192093)
+2015-07-05 07:05:05 [INFO] alaxa27 lost connection: disconnect.quitting
+2015-07-05 07:05:11 [INFO] Inarius lost connection: disconnect.quitting
+2015-07-05 07:07:01 [INFO] Stopping server
+2015-07-05 07:07:02 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 07:07:02 [INFO] Loading properties
+2015-07-05 07:07:02 [INFO] Default game type: SURVIVAL
+2015-07-05 07:07:02 [INFO] Generating keypair
+2015-07-05 07:07:02 [INFO] Starting Minecraft server on *:25565
+2015-07-05 07:07:02 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-07-05 07:07:02 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-07-05 07:07:02 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-07-05 07:07:02 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-07-05 07:07:02 [INFO] Preparing level "world"
+2015-07-05 07:07:02 [INFO] Preparing start region for level 0
+2015-07-05 07:07:03 [INFO] Done (0,765s)! For help, type "help" or "?"
+2015-07-05 07:07:09 [INFO] alaxa27[/192.168.1.254:42479] logged in with entity id 50 at (234.5, 65.0, 54.5)
+2015-07-05 07:07:33 [INFO] Inarius[/85.69.56.110:56429] logged in with entity id 651 at (244.5, 66.0, 65.5)
+2015-07-05 07:08:03 [INFO] <Inarius> weather clear
+2015-07-05 07:09:20 [INFO] Stopping server
+2015-07-05 07:09:20 [INFO] Closing listening thread
+2015-07-05 07:09:20 [INFO] Saving players
+2015-07-05 07:09:22 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 07:09:22 [INFO] Loading properties
+2015-07-05 07:09:22 [INFO] Default game type: SURVIVAL
+2015-07-05 07:09:22 [INFO] Generating keypair
+2015-07-05 07:09:23 [INFO] Starting Minecraft server on *:25565
+2015-07-05 07:09:23 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-07-05 07:09:23 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-07-05 07:09:23 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-07-05 07:09:23 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-07-05 07:09:23 [INFO] Preparing level "world"
+2015-07-05 07:09:23 [INFO] Preparing start region for level 0
+2015-07-05 07:09:23 [INFO] Done (0,765s)! For help, type "help" or "?"
+2015-07-05 07:09:27 [INFO] alaxa27[/192.168.1.254:42513] logged in with entity id 163 at (243.65716177522447, 66.0, 41.73645907711335)
+2015-07-05 07:09:30 [INFO] [alaxa27: Changing to clear weather]
+2015-07-05 07:09:41 [INFO] Inarius[/85.69.56.110:56498] logged in with entity id 226 at (248.16430412066967, 66.0, 44.69452992965514)
+2015-07-05 07:10:33 [INFO] [Inarius: Set own game mode to Creative Mode]
+2015-07-05 07:10:43 [INFO] [Inarius: Set the time to 0]
+2015-07-05 07:11:59 [INFO] [alaxa27: Set own game mode to Creative Mode]
+2015-07-05 07:16:18 [INFO] <Inarius> fu!
+2015-07-05 07:16:20 [INFO] <Inarius> morons
+2015-07-05 07:16:23 [INFO] <alaxa27> yoiu
+2015-07-05 07:20:02 [INFO] [Inarius: Given Command Block (ID 137) * 1 to Inarius]
+2015-07-05 07:22:16 [INFO] [Inarius: Changing to clear weather]
+2015-07-05 07:22:57 [INFO] [Inarius: Changing to rainy weather]
+2015-07-05 07:23:07 [INFO] [Inarius: Set the time to 12500]
+2015-07-05 07:23:34 [INFO] alaxa27 lost connection: disconnect.quitting
+2015-07-05 07:23:57 [INFO] Disconnecting /192.168.1.254:42522: Protocol error
+2015-07-05 07:23:57 [INFO] /192.168.1.254:42522 lost connection
+2015-07-05 07:24:02 [INFO] Inarius lost connection: disconnect.quitting
+2015-07-05 07:24:08 [INFO] Disconnecting /192.168.1.254:42523: Protocol error
+2015-07-05 07:24:08 [INFO] /192.168.1.254:42523 lost connection
+2015-07-05 07:24:47 [INFO] Inarius[/85.69.56.110:56898] logged in with entity id 14071 at (436.5384007307612, 69.0, -139.44844258501934)
+2015-07-05 07:25:15 [INFO] [Inarius: Changing to clear weather]
+2015-07-05 07:25:18 [INFO] [Inarius: Set the time to 0]
+2015-07-05 07:26:26 [INFO] Stopping server
+2015-07-05 07:28:08 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 07:28:08 [INFO] Loading properties
+2015-07-05 07:28:08 [INFO] Default game type: SURVIVAL
+2015-07-05 07:28:08 [INFO] Generating keypair
+2015-07-05 07:28:08 [INFO] Starting Minecraft server on *:25565
+2015-07-05 07:28:08 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-07-05 07:28:08 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-07-05 07:28:08 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-07-05 07:28:08 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-07-05 07:28:08 [INFO] Preparing level "world"
+2015-07-05 07:28:09 [INFO] Preparing start region for level 0
+2015-07-05 07:28:09 [INFO] Done (0,684s)! For help, type "help" or "?"
+2015-07-05 07:28:14 [INFO] Inarius[/85.69.56.110:56991] logged in with entity id 121 at (414.589734701342, 79.8691518928517, -125.60904063591093)
+2015-07-05 07:28:30 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2015-07-05 07:28:30 [INFO] /ban <name> [reason ...]
+2015-07-05 07:28:30 [INFO] /ban-ip <address|name> [reason ...]
+2015-07-05 07:28:30 [INFO] /banlist [ips|players]
+2015-07-05 07:28:30 [INFO] /clear <player> [item] [data]
+2015-07-05 07:28:30 [INFO] /debug
+2015-07-05 07:28:30 [INFO] /defaultgamemode <mode>
+2015-07-05 07:28:30 [INFO] /deop <player>
+2015-07-05 07:28:50 [INFO] Cleared the inventory of Inarius, removing 73 items
+2015-07-05 07:30:17 [INFO] Stopping server
+2015-07-05 07:30:17 [INFO] Closing listening thread
+2015-07-05 07:30:17 [INFO] Saving players
+2015-07-05 07:32:15 [INFO] Starting minecraft server version 1.5.2
+2015-07-05 07:32:15 [INFO] Loading properties
+2015-07-05 07:32:15 [INFO] Default game type: SURVIVAL
+2015-07-05 07:32:15 [INFO] Generating keypair
+2015-07-05 07:32:15 [INFO] Starting Minecraft server on *:25565
+2015-07-05 07:32:15 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-07-05 07:32:15 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-07-05 07:32:15 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-07-05 07:32:15 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-07-05 07:32:15 [INFO] Preparing level "world"
+2015-07-05 07:32:15 [INFO] Preparing start region for level 0
+2015-07-05 07:32:16 [INFO] Done (0,835s)! For help, type "help" or "?"
+2015-07-05 07:32:18 [INFO] Inarius[/85.69.56.110:57182] logged in with entity id 149 at (308.5628051894181, 62.0, -53.85370569800049)
